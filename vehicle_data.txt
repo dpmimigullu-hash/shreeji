@@ -1,0 +1,74 @@
+Make	Model	Seating_Capacity
+Maruti Suzuki	Alto K10	4
+Maruti Suzuki	WagonR	4
+Maruti Suzuki	Celerio	4
+Maruti Suzuki	Swift	4
+Maruti Suzuki	Dzire	4
+Maruti Suzuki	Baleno	4
+Maruti Suzuki	Fronx	4
+Maruti Suzuki	Ignis	4
+Maruti Suzuki	Ciaz	4
+Maruti Suzuki	Brezza	4
+Maruti Suzuki	Grand Vitara	4
+Hyundai	Grand i10 Nios	4
+Hyundai	i20	4
+Hyundai	Aura	4
+Hyundai	Exter	4
+Hyundai	Venue	4
+Hyundai	Creta	4
+Hyundai	Verna	4
+Hyundai	Tucson	4
+Tata	Tiago	4
+Tata	Tigor	4
+Tata	Altroz	4
+Tata	Punch	4
+Tata	Nexon	4
+Tata	Harrier	4
+Mahindra	Thar	4
+Mahindra	XUV3XO	4
+Mahindra	XUV300	4
+Mahindra	Bolero Neo	4
+Toyota	Glanza	4
+Toyota	Urban Cruiser Taisor	4
+Toyota	Hyryder	4
+Kia	Sonet	4
+Kia	Seltos	4
+Renault	Kwid	4
+Renault	Kiger	4
+Nissan	Magnite	4
+Honda	Amaze	4
+Honda	City	4
+Honda	Elevate	4
+Skoda	Slavia	4
+Skoda	Kushaq	4
+Volkswagen	Virtus	4
+Volkswagen	Taigun	4
+MG	Astor	4
+MG	Hector	4
+Isuzu	V-Cross	4
+Force	Gurkha	4
+Maruti Suzuki	Ertiga	7
+Maruti Suzuki	Eeco (7-Seater)	7
+Toyota	Rumion	7
+Toyota	Innova Crysta	7
+Toyota	Innova Hycross	7
+Toyota	Fortuner	7
+Mahindra	Bolero	7
+Mahindra	Scorpio-N	7
+Mahindra	Scorpio Classic	7
+Mahindra	XUV700 (7-Seater)	7
+Mahindra	Marazzo	7
+Mahindra	Bolero Neo (7-Seater)	7
+Hyundai	Alcazar	7
+Kia	Carens	7
+Renault	Triber	7
+Tata	Safari	7
+MG	Hector Plus	7
+MG	Gloster	7
+Skoda	Kodiaq	7
+Jeep	Meridian	7
+Isuzu	MU-X	7
+Force	Trax Cruiser (7/9/13 configurations)	7
+Force	Traveller 3350 (13-Seater)	13
+Force	Trax Cruiser (13-Seater)	13
+Tata	Winger (13-Seater)	13
